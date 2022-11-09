@@ -1,6 +1,14 @@
 # RESTful API
 As this is a template of a RESTful API, you can frame your own data to fill in(as required) or alternatively you can also copy and paste the template details/data given below for your reference.
-
+<br>
+<br>
+<b>Note</b>: Install all the required node modules mentioned under the "dependencies" field in package.json file.
+<br>
+<br>
+Use this command to install npm modules:
+```
+npm i <ModuleName> 
+```
 ## Example Documents
 ```
 {
